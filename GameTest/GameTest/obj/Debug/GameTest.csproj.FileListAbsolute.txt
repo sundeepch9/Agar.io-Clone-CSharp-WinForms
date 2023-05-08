@@ -1,0 +1,11 @@
+C:\Users\DivyaChekuri_qxxjhu4\source\repos\GameTest\GameTest\bin\Debug\GameTest.exe.config
+C:\Users\DivyaChekuri_qxxjhu4\source\repos\GameTest\GameTest\bin\Debug\GameTest.exe
+C:\Users\DivyaChekuri_qxxjhu4\source\repos\GameTest\GameTest\bin\Debug\GameTest.pdb
+C:\Users\DivyaChekuri_qxxjhu4\source\repos\GameTest\GameTest\obj\Debug\GameTest.csproj.AssemblyReference.cache
+C:\Users\DivyaChekuri_qxxjhu4\source\repos\GameTest\GameTest\obj\Debug\GameTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\DivyaChekuri_qxxjhu4\source\repos\GameTest\GameTest\obj\Debug\GameTest.Form1.resources
+C:\Users\DivyaChekuri_qxxjhu4\source\repos\GameTest\GameTest\obj\Debug\GameTest.Properties.Resources.resources
+C:\Users\DivyaChekuri_qxxjhu4\source\repos\GameTest\GameTest\obj\Debug\GameTest.csproj.GenerateResource.cache
+C:\Users\DivyaChekuri_qxxjhu4\source\repos\GameTest\GameTest\obj\Debug\GameTest.csproj.CoreCompileInputs.cache
+C:\Users\DivyaChekuri_qxxjhu4\source\repos\GameTest\GameTest\obj\Debug\GameTest.exe
+C:\Users\DivyaChekuri_qxxjhu4\source\repos\GameTest\GameTest\obj\Debug\GameTest.pdb

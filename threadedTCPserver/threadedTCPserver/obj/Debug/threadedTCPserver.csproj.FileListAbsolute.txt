@@ -1,0 +1,8 @@
+C:\Users\DivyaChekuri_qxxjhu4\source\repos\threadedTCPserver\threadedTCPserver\bin\Debug\threadedTCPserver.exe.config
+C:\Users\DivyaChekuri_qxxjhu4\source\repos\threadedTCPserver\threadedTCPserver\bin\Debug\threadedTCPserver.exe
+C:\Users\DivyaChekuri_qxxjhu4\source\repos\threadedTCPserver\threadedTCPserver\bin\Debug\threadedTCPserver.pdb
+C:\Users\DivyaChekuri_qxxjhu4\source\repos\threadedTCPserver\threadedTCPserver\obj\Debug\threadedTCPserver.csproj.AssemblyReference.cache
+C:\Users\DivyaChekuri_qxxjhu4\source\repos\threadedTCPserver\threadedTCPserver\obj\Debug\threadedTCPserver.csproj.SuggestedBindingRedirects.cache
+C:\Users\DivyaChekuri_qxxjhu4\source\repos\threadedTCPserver\threadedTCPserver\obj\Debug\threadedTCPserver.csproj.CoreCompileInputs.cache
+C:\Users\DivyaChekuri_qxxjhu4\source\repos\threadedTCPserver\threadedTCPserver\obj\Debug\threadedTCPserver.exe
+C:\Users\DivyaChekuri_qxxjhu4\source\repos\threadedTCPserver\threadedTCPserver\obj\Debug\threadedTCPserver.pdb
